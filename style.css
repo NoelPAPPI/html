@@ -50,3 +50,20 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.links{
+    color: black;
+}
+.links:hover{
+    color: #03316d;
+    font-weight: bolder;
+    text-decoration-line: underline;
+}
+
+.leiras{
+    font-style: italic;
+}
+.kiemeles{
+    color: black;
+    font-weight: bold;
+}
