@@ -77,3 +77,14 @@ footer {
 .piros{
     color: red;
 }
+
+.foglalas{
+    color: chocolate;
+    font-style: italic;
+}
+
+.foglalas:hover{
+    color: darkgoldenrod;
+    font-style: italic;
+    font-weight: bolder;
+}
